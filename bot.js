@@ -42,7 +42,7 @@ var channel = "528183470070169602";
     },86400);
 })
 var prefix = "*";
-const pr1 = ['525397055812665346' , '502907623641972757' , ''];//{ID Who Can Use Commands}
+const pr1 = ['524676676035149854' , '524676676035149854' , ''];//{ID Who Can Use Commands}
 
 
 client.on('message', message => {
