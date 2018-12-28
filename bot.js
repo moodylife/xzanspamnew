@@ -41,7 +41,7 @@ var channel = "528183470070169602";
     client.guilds.get(server).channels.get(channel).send('#daily')
     },86400);
 })
-var prefix = "*";
+var prefix = "*1";
 const pr1 = ['524676676035149854' , '524676676035149854' , ''];//{ID Who Can Use Commands}
 
 
